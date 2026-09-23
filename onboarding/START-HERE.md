@@ -37,7 +37,7 @@ Open the [Knowledge Base](../knowledge/README.md), then open the no-display exam
 
 ## Step 5 — Inspect History
 
-At the top of the example article, select **History**. Open a revision and notice the lines that were added or removed. GitHub retains the record even after the current article changes.
+At the top of the example article, select **History**. Open a revision and notice the lines that were added or removed. Then open [Pull Request #4](https://github.com/student-operated-technology-ecosystem/CIT-205-classroom/pull/4) and select **Files changed** to see the reviewed cable-check revision. GitHub retains the record even after the current article changes.
 
 ## Completion Evidence
 
