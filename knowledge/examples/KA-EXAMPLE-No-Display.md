@@ -22,7 +22,7 @@ Obtain permission before moving equipment or interrupting work. Record the start
 
 1. Confirm that the monitor has power and observe its power indicator.
 2. Confirm that the selected monitor input matches the connected cable.
-3. Check accessible connections without forcing, opening, or disassembling equipment.
+3. Visually trace the display cable from the monitor to the workstation. Confirm each accessible connector is fully seated without forcing it or removing a fastened connector. Record which ends you checked.
 4. Before considering a restart, ask about unsaved work and obtain permission. If interruption is not authorized or work cannot be saved, stop and escalate.
 5. If a restart is appropriate, record what happens afterward.
 
@@ -42,3 +42,4 @@ Stop if equipment appears damaged, a step requires elevated permission, unsaved 
 
 - Initial example created for the CIT-205 GitHub and Knowledge Article lesson.
 - Peer-style revision added the unsaved-work and permission check before restart.
+- Peer-style revision replaced an ambiguous “check connections” instruction with an observable cable-tracing step.
