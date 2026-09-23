@@ -18,7 +18,7 @@ Use the path near the top of the page to move back up. Selecting **CIT-205-class
 
 ## Step 3 — Complete the Welcome Check-In
 
-Open the pinned welcome issue supplied by your instructor. Add one comment containing:
+Open [START HERE — CIT-205 classroom welcome check-in](https://github.com/student-operated-technology-ecosystem/CIT-205-classroom/issues/2). Add one comment containing:
 
 - your preferred first name;
 - one help-desk skill you want to improve;
