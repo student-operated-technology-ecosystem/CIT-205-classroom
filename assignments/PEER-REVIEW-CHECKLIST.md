@@ -31,15 +31,19 @@ Ask:
 - Does the resolution avoid pretending an untested guess is confirmed?
 - Does verification prove the user-facing problem is resolved?
 
-## Part 2 — Comment on the exact change
+## Part 2 — Compare the proposed change
 
 1. Return to the pull request.
 2. Open **Files changed**.
-3. Find the exact line or small group of lines connected to your feedback.
-4. Use GitHub's line-comment control beside that line to leave a review comment.
-5. When replacement wording would help, write the proposed wording directly in the comment. If GitHub offers a **suggested change** option, you may use it for a small exact replacement.
-6. Continue until your required feedback is attached to the relevant lines.
-7. Submit the review when finished.
+3. For a Markdown article, use GitHub's **rich/rendered diff** control in the file header to read the change as rendered prose. This is the clearest view for understanding what was added or removed in context.
+4. When you need to comment on an exact sentence or line, switch back to the normal **source diff**.
+5. Find the exact line or small group of lines connected to your feedback.
+6. Use GitHub's line-comment control beside that line to leave a review comment.
+7. When replacement wording would help, write the proposed wording directly in the comment. If GitHub offers a **suggested change** option, you may use it for a small exact replacement.
+8. Continue until your required feedback is attached to the relevant lines.
+9. Submit the review when finished.
+
+**Rendered diff = understand the article change. Source diff = comment on the exact line.**
 
 Do not edit your classmate's branch directly. Peer review proposes changes; the article author decides how to revise the branch.
 
