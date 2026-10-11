@@ -5,17 +5,18 @@
 ## Before you start
 - Sign in to your own GitHub account and note your exact username.
 - Gather your completed CIT-205 artifacts. Remove passwords, personal data, internal addresses, and confidential ticket details.
-- Use the [instructor's fictional model portfolio](../../examples/exemplary-portfolio/index.html) as a quality reference. Do not submit Alex Morgan's work as your own.
+- Use the [instructor's fictional model portfolio](../examples/exemplary-portfolio/README.md) as a quality reference. Do not submit Alex Morgan's work as your own.
 
 ## Mission steps
-1. On GitHub choose **New repository**.
-2. Name it **YOUR-USERNAME.github.io**, replacing YOUR-USERNAME with your exact GitHub username. Choose **Public**, initialize with a README, and create it. If you already have a user Pages repository, use it instead.
-3. Choose **Add file → Create new file**, name it **index.html**, and create your portfolio homepage. You may adapt the example HTML, but replace the fictional content with your own authentic work. Commit the file to `main`.
-4. Create an `artifacts/` folder by uploading appropriately redacted PDF files or Markdown writeups. Link each file from your homepage using a relative URL such as `artifacts/workstation-validation.pdf`. Never upload real credentials, private student/customer information, or restricted infrastructure details.
-5. In the repository choose **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, branch **main**, folder **/(root)**, then **Save**. If Pages is already configured, do not change it unnecessarily.
-6. Wait for the Pages deployment to complete. Open **https://YOUR-USERNAME.github.io/** in a private/incognito window. The URL must show the actual website, not GitHub's source-code view.
-7. Click every artifact link and test on a phone. Verify your name, role, professional summary, project explanations, evidence, reflection, and contact method.
-8. In Blackboard submit **both** your published website URL and your GitHub repository URL.
+1. Open [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate) to create your own copy of the CIT-205 portfolio starter. From the template repository page, the equivalent action is **Use this template → Create a new repository**.
+2. Set **Owner** to **your own GitHub account**. Name the repository **YOUR-USERNAME.github.io**, replacing YOUR-USERNAME with your exact GitHub username. For example, username `alexmorgan` uses `alexmorgan.github.io`. Choose **Public**, leave **Include all branches** unchecked, and select **Create repository**. If you already have a repository with this name, keep it and copy the starter files into it without overwriting existing work.
+3. Confirm `index.html`, `style.css`, and the `artifacts/` directory are in the **root** of your new repository. The template copies these files automatically; you do not need to recreate the homepage or copy the classroom repository.
+4. Open `index.html`, select the pencil/**Edit this file**, and replace every `YOUR NAME`, sample introduction, artifact explanation, GitHub profile URL, and LinkedIn URL with your own authentic content. Select **Commit changes** and commit to `main`.
+5. Open `artifacts/` and choose **Add file → Upload files** to upload your reviewed, redacted PDFs. Use the filenames listed in `artifacts/README.md`, or update your homepage links to match your filenames. Commit the uploads to `main`. The starter does not include finished PDFs; hide unfinished artifact links until your evidence is ready.
+6. In **your repository**, open **Settings → Pages**. Under **Build and deployment**, set **Source** to **Deploy from a branch**, **Branch** to **main**, and **Folder** to **/(root)**. Select **Save**. If your existing Pages repository already uses these settings, keep them.
+7. Wait for the Pages deployment to complete; it may take several minutes. Refresh **Settings → Pages**, then use **Visit site**. Open **https://YOUR-USERNAME.github.io/** in a private/incognito window. This is your live website. The `github.com` repository address displays files and code. Future commits to `main` automatically republish the site.
+8. Click every artifact link and test on a phone. Verify your name, role, professional summary, project explanations, evidence, reflection, and contact method.
+9. In Blackboard submit **both** your published website URL (`https://YOUR-USERNAME.github.io/`) and your GitHub repository URL (`https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io`).
 
 ## Portfolio content checklist
 - Professional introduction and skills

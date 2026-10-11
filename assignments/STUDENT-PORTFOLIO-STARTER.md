@@ -40,7 +40,11 @@ The goal is not to claim that you have a skill. The goal is to show evidence tha
 
 ### Step 1 — Create Your Portfolio Repository
 
-Use the instructor-provided CIT-205 portfolio starter/template to create your own repository. Follow the naming convention provided in class.
+Open [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate). Select **your own account** as Owner, choose **Public**, and name the repository `YOUR-USERNAME.github.io` using your exact GitHub username. For example, `alexmorgan` creates `alexmorgan.github.io`. Leave **Include all branches** unchecked and select **Create repository**.
+
+The template places `index.html`, `style.css`, and `artifacts/` directly in your repository root. If you already have a `YOUR-USERNAME.github.io` repository, preserve it and copy the starter files into it without overwriting existing work.
+
+Follow the [ACE Portfolio Publication Mission](ACE-portfolio-publication-mission.md) for the complete publishing walkthrough.
 
 ### Step 2 — Personalize the Starter
 
@@ -78,10 +82,11 @@ In your repository:
 
 1. Open **Settings**.
 2. Open **Pages**.
-3. Select **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)`.
-5. Save the setting.
-6. Wait for GitHub Pages to publish the site.
+3. Under **Build and deployment → Source**, select **Deploy from a branch**.
+4. Select the `main` branch and **/(root)**.
+5. Select **Save**.
+6. Wait several minutes for deployment, refresh **Settings → Pages**, and select **Visit site**.
+7. Your live portfolio URL is `https://YOUR-USERNAME.github.io/`. Your repository URL is `https://github.com/YOUR-USERNAME/YOUR-USERNAME.github.io`. Submit both to Blackboard. Commits to `main` automatically republish the site.
 
 ### Step 6 — Validate the Site
 

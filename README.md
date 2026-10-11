@@ -22,6 +22,8 @@ Turn one troubleshooting scenario into a Knowledge Article, propose it through a
 
 Create a professional GitHub Pages portfolio, publish your first sanitized CIT-205 evidence artifact, and establish the portfolio you will continue building through this course and future CIT/SOTE work.
 
+Start with [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate). Create a public repository under your own account named `YOUR-USERNAME.github.io`, then follow the [ACE Portfolio Publication Mission](assignments/ACE-portfolio-publication-mission.md) to publish it.
+
 ## What Each Tool Does
 
 | Tool | Classroom job |
