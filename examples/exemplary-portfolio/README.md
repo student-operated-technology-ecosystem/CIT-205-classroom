@@ -4,7 +4,8 @@ This instructor-led example demonstrates how a fictional student, Alex Morgan, c
 
 ## Classroom demonstration
 
-- Open [the sample portfolio](./index.html) (GitHub HTML preview or publish this folder through an approved site workflow).
+- Open [**View Alex Morgan’s Live Example Portfolio**](https://student-operated-technology-ecosystem.github.io/CIT-205-classroom/examples/exemplary-portfolio/) to see the rendered website. The `index.html` file on GitHub shows source code.
+- The 13 artifact examples are presented inline on the website; this fictional model does not depend on downloadable PDFs.
 - Walk through each artifact and discuss what makes the evidence credible.
 - All identities, tickets, workstation IDs, and incidents are fictional teaching examples. Do not present them as real operational evidence.
 - Students should replace example content with their own authentic artifacts, validation evidence, reflection, and appropriate redactions.

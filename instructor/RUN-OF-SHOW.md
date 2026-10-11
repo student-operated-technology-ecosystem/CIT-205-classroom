@@ -68,3 +68,14 @@ Because the classroom repository is public, students can read without organizati
 ## Instructor Validation Gate
 
 Before merging, verify technical accuracy, safe ordering, privacy, scope, verification, and escalation. **Merged** means Classroom Accepted and makes the article eligible for display through the classroom layer of the SOTE Command Portal. It does not automatically promote the article into operational SOTE knowledge.
+
+## Portfolio Publication Demonstration
+
+1. Open [**View Alex Morgan’s Live Example Portfolio**](https://student-operated-technology-ecosystem.github.io/CIT-205-classroom/examples/exemplary-portfolio/) before showing the source files. Demonstrate About, Evidence, and Reflection navigation and inspect the 13 inline artifact examples.
+2. Explain that Alex Morgan and the incidents are fictional quality references. Students must curate their own reviewed, sanitized evidence.
+3. Follow the [ACE Portfolio Publication Mission](../assignments/ACE-portfolio-publication-mission.md) to create each student's own template-based portfolio and enable Pages.
+4. Submit and verify both the live website URL and repository URL. A GitHub source view is not the published portfolio.
+
+### Classroom example hosting
+
+The existing `examples/exemplary-portfolio/index.html` is published by GitHub Pages from `main` and `/(root)`. Changes committed or merged into `main` automatically trigger **pages build and deployment**; verify its build and deploy jobs under **Actions** before checking the updated live site. Preserve the folder path to keep the classroom link stable.

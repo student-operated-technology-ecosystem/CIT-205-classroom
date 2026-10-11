@@ -5,7 +5,7 @@
 ## Before you start
 - Sign in to your own GitHub account and note your exact username.
 - Gather your completed CIT-205 artifacts. Remove passwords, personal data, internal addresses, and confidential ticket details.
-- Use the [instructor's fictional model portfolio](../examples/exemplary-portfolio/README.md) as a quality reference. Do not submit Alex Morgan's work as your own.
+- [**View Alex Morgan’s Live Example Portfolio**](https://student-operated-technology-ecosystem.github.io/CIT-205-classroom/examples/exemplary-portfolio/) as a quality reference. Do not submit Alex Morgan's work as your own.
 
 ## Mission steps
 1. Open [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate) to create your own copy of the CIT-205 portfolio starter. From the template repository page, the equivalent action is **Use this template → Create a new repository**.

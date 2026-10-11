@@ -24,6 +24,12 @@ Create a professional GitHub Pages portfolio, publish your first sanitized CIT-2
 
 Start with [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate). Create a public repository under your own account named `YOUR-USERNAME.github.io`, then follow the [ACE Portfolio Publication Mission](assignments/ACE-portfolio-publication-mission.md) to publish it.
 
+## Live Example Portfolio
+
+[**View Alex Morgan’s Live Example Portfolio**](https://student-operated-technology-ecosystem.github.io/CIT-205-classroom/examples/exemplary-portfolio/)
+
+Open this link to see the rendered website. Alex Morgan and all incidents are fictional teaching examples; students publish their own evidence using the portfolio template.
+
 ## What Each Tool Does
 
 | Tool | Classroom job |

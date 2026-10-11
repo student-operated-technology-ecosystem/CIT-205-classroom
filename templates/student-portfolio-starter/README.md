@@ -14,7 +14,7 @@ This is a **starter template**, not a completed student portfolio. Start with [*
 
 **Important:** The example HTML links point to PDF filenames that are not included in the starter. Those links will not work until you upload your actual artifacts. This is intentional: you must demonstrate your own work.
 
-The [Alex Morgan example](https://github.com/student-operated-technology-ecosystem/CIT-205-classroom/tree/main/examples/exemplary-portfolio) is a fictional quality reference, not student work to copy.
+[**View Alex Morgan’s Live Example Portfolio**](https://student-operated-technology-ecosystem.github.io/CIT-205-classroom/examples/exemplary-portfolio/) for a fictional quality reference, not student work to copy.
 
 ## Instructor classroom demonstration
 Walk through account/repository creation, show `index.html` and `style.css` in the root, upload one safely redacted artifact, publish via Pages, and open the resulting website in a private window. Then show how to replace a broken link and verify the repair.
